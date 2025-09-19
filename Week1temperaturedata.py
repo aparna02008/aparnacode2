@@ -9,7 +9,7 @@ print(c)
 print("City A:",c[0])
 print("City B:",c[1])
 print("City C:",c[2])
-
+ 
 
 d=a.max(axis=1)
 print("Maximum temperature of each day:",d)
